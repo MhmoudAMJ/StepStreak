@@ -1,3 +1,23 @@
+# Step Streak
+***
+## Be Hralthy & Heath
+### It's a project based on Health to protect and heal the environment whilst developing new ideas.
+
+
+## Feauters:
+Our app aims to help people stay motivated and use their feet more by allowing them to score points by a set amount of steps and streak multiplier, the user can then use the points earned to get more features, discounts on food, merch and gym memberships.
+
+## Technologies:
+- Flutter.
+- Dart.
+- TensorFlow.
+- Firebase.
+
+## Software Engineers:
+ *Mariam Alahmar & Mhmoud Jundo*
+
+
+
 # test
 
 A new Flutter project.
