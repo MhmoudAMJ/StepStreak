@@ -1,6 +1,6 @@
 # Step Streak
 ***
-## Be Hralthy & Heath
+## Be Healthy & Heath
 ### It's a project based on Health to protect and heal the environment whilst developing new ideas.
 
 
